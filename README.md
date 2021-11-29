@@ -1,2 +1,2 @@
-Start program:
-    py genetic.py
+# Запуск программы ##
+    py ./genetic.py
